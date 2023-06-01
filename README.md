@@ -1,4 +1,4 @@
-# case-bi-working-student
+# case-bi-working-student-visualization
 
 The case revolves around a hypothetical online store – Superstore. They're selling merchandise in different product categories to customers within the United States. Imagine yourself as a BI specialist in a company and one manager send you a the following request:
 
